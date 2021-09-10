@@ -10,3 +10,5 @@
 * Низкая цена
 
 [Hex, bugs and source control](https://github.com/stepanovkonstantin/edu)
+
+### New commit
